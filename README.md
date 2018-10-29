@@ -1,1 +1,1 @@
-# ZScales
+# ZScale
